@@ -11,13 +11,17 @@
 ---
 
 ## 🛠️ **Code & Templates**  
-- [`cost-explorer-query.sh`](../../code/article-1/cost-explorer-query.sh): Query EC2/S3 monthly costs.  
-- [`rightsizing-template.yml`](../../code/article-1/rightsizing-template.yml): CloudFormation budget template.  
+- [`cleanup-unused-volumes.py`](../code/article-1/cleanup-unused-volumes.py): Find unattached EBS volumes.
+- [`cost-drivers.py`](../code/article-1/cost-drivers.py): Cost Drivers.
+- [`cost-explorer-query.sh`](../code/article-1/cost-explorer-query.sh): Query EC2/S3 monthly costs.  
+- [`rightsizing-template.yml`](../code/article-1/rightsizing-template.yml): CloudFormation budget template.  
 
 ---
 
 ## 📊 **Diagrams**  
-![AWS Cost Drivers](../../diagrams/images/cost-drivers.png)  
+- ['detailed_aws_key_cost_drivers.png'](../diagrams/article-1/detailed_aws_key_cost_drivers.png): Cost Drivers.
+- ['detailed_cost_tracking_setup.png'](../diagrams/article-1/detailed_cost_tracking_setup.png): Cost Tracking.
+- ['enhanced_aws_common_cost_leaks.png'](../diagrams/article-1/enhanced_aws_common_cost_leaks.png): Common Cost Leaks  
 
 ---
 
