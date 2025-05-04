@@ -26,4 +26,4 @@
 ---
 
 ## 🔗 **Full Article**  
-Read the complete guide on [Medium](https://medium.com/your-article-1).  
+Read the complete guide on [Medium](https://medium.com/@sheeraz-techhublab/aws-cost-management-101-understanding-the-basics-26ef27baa5dc).  
