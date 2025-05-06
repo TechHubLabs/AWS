@@ -30,6 +30,6 @@ Learn to eliminate cloud waste, automate governance, and build cost-conscious te
 ---
 
 ## 🔗 Resources
-- [GitHub Code Samples](https://github.com/yourusername/aws-cost-optimization-series)
+- [GitHub Code Samples](https://github.com/TechHubLabs/AWS/tree/main/aws-cost-optimization-series)
 - [FinOps Framework](https://www.finops.org)
 - [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool)
