@@ -50,4 +50,4 @@ Read on [Medium](https://medium.com/your-article-2)  # Article 2: Decoding AWS P
 ---
 
 ## 🔗 **Full Article**  
-Read on [Medium](https://medium.com/your-article-2)  
+Read on [Medium](https://medium.com/@sheeraz-techhublab/decoding-aws-pricing-models-how-to-avoid-surprises-d42feb29bb21)  
