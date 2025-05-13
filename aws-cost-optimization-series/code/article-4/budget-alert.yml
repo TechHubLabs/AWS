@@ -1,0 +1,19 @@
+Resources:
+  BudgetWithSNS:
+    Type: AWS::Budgets::Budget
+    Properties:
+      Budget:
+        BudgetName: "Production-Env-Budget"
+        BudgetLimit:
+          Amount: 5000
+          Unit: USD
+        TimeUnit: MONTHLY
+        BudgetType: COST
+      NotificationsWithSubscribers:
+        - Notification:
+            NotificationType: ACTUAL
+            ComparisonOperator: GREATER_THAN
+            Threshold: 100
+          Subscribers:
+            - SubscriptionType: SNS
+              Address: arn:aws:sns:us-east-1:123456789012:BudgetAlerts
